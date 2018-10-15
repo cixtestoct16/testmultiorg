@@ -1,2 +1,2 @@
 # testmultiorg
-ci, pr
+triggers!
